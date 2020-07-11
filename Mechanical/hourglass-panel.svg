@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg40861"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="hourglass-panel.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4491"
+     showgrid="false"
+     inkscape:zoom="1.5037598"
+     inkscape:cx="78.288871"
+     inkscape:cy="212.53833"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40861"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="80,5.0000958"
+       orientation="0,1"
+       id="guide42057"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole Y lower"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.0000958,-5"
+       orientation="1,0"
+       id="guide42059"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole X left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="70,-5"
+       orientation="1,0"
+       id="guide42061"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole X right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="80,115.00009"
+       orientation="0,1"
+       id="guide42063"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole Y upper"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="37.5,-5"
+       orientation="1,0"
+       id="guide42085"
+       inkscape:locked="false"
+       inkscape:label="Center X"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="80,2.5000479"
+       orientation="0,1"
+       id="guide42087"
+       inkscape:locked="false"
+       inkscape:label="Connector cutout center horizontal"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <title
+     id="title41469">Hourglass panel</title>
+  <defs
+     id="defs40855" />
+  <metadata
+     id="metadata40858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hourglass panel</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(0.37469834,0,0,0.42105239,3.370293e-6,171.94739)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:0.43513814"
+       d="M 0 668.97656 L 0 1122.5195 L 0.22851562 1122.5195 L 18.898438 1122.5195 L 113.5 1122.5195 L 113.5 1103.6211 L 170.19336 1103.6211 L 170.19336 1122.5195 L 264.56641 1122.5195 L 283.23633 1122.5195 L 283.46484 1122.5195 L 283.46484 668.97656 L 283.23633 668.97656 L 264.56641 668.97656 L 141.8457 668.97656 L 141.61914 668.97656 L 18.898438 668.97656 L 0.22851562 668.97656 L 0 668.97656 z M 18.898438 681.25977 A 6.6141728 6.6141728 0 0 1 25.511719 687.87305 A 6.6141728 6.6141728 0 0 1 18.898438 694.48828 A 6.6141728 6.6141728 0 0 1 12.283203 687.87305 A 6.6141728 6.6141728 0 0 1 18.898438 681.25977 z M 264.56641 681.25977 A 6.6141723 6.6141723 0 0 1 271.18164 687.87305 A 6.6141723 6.6141723 0 0 1 264.56641 694.48828 A 6.6141723 6.6141723 0 0 1 257.95312 687.87305 A 6.6141723 6.6141723 0 0 1 264.56641 681.25977 z M 18.898438 704.7832 C 18.943374 704.78321 18.962579 704.7832 19.007812 704.7832 L 32.091797 704.7832 L 32.091797 711.14844 C 32.091797 738.60811 36.960176 770.82111 44.128906 793.10352 C 51.622948 816.39715 59.471167 831.22435 78.826172 855.96289 C 90.663499 871.09277 95.000772 877.40893 97.349609 886.14844 C 99.108035 892.75513 98.628059 900.1131 97.236328 907.68359 C 94.687503 918.48042 91.505284 925.26147 75.552734 952.08008 C 68.761889 963.49648 61.613078 975.61627 59.708984 979.29492 C 42.550064 1012.445 36.660637 1044.1333 32.8125 1082.0137 L 32.091797 1089.1016 L 19.205078 1089.1016 C 19.078339 1089.1029 19.022883 1089.1041 18.898438 1089.1055 L 18.898438 704.7832 z M 251.37305 704.7832 L 264.45703 704.7832 C 264.50227 704.7832 264.52146 704.78321 264.56641 704.7832 L 264.56641 1089.1055 C 264.44196 1089.1041 264.3865 1089.1029 264.25977 1089.1016 L 251.37305 1089.1016 L 250.65234 1082.0137 C 246.80421 1044.1333 240.91673 1012.445 223.75781 979.29492 C 221.85373 975.61627 214.70294 963.49648 207.91211 952.08008 C 191.95956 925.26147 188.77735 918.48042 186.22852 907.68359 C 184.83679 900.1131 184.35681 892.75513 186.11523 886.14844 C 188.46407 877.40893 192.80134 871.09277 204.63867 855.96289 C 223.99368 831.22435 231.83994 816.39716 239.33398 793.10352 C 246.50272 770.82111 251.37305 738.60811 251.37305 711.14844 L 251.37305 704.7832 z M 18.898438 1097.0078 A 6.6141732 6.6141732 0 0 1 25.511719 1103.6211 A 6.6141732 6.6141732 0 0 1 18.898438 1110.2363 A 6.6141732 6.6141732 0 0 1 12.283203 1103.6211 A 6.6141732 6.6141732 0 0 1 18.898438 1097.0078 z M 264.56641 1097.0078 A 6.6141728 6.6141728 0 0 1 271.18164 1103.6211 A 6.6141728 6.6141728 0 0 1 264.56641 1110.2363 A 6.6141728 6.6141728 0 0 1 257.95312 1103.6211 A 6.6141728 6.6141728 0 0 1 264.56641 1097.0078 z "
+       transform="matrix(0.70612358,0,0,0.62838578,-8.9946836e-6,-408.37529)"
+       id="path41417" />
+  </g>
+</svg>
