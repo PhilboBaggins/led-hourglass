@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg40861"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="hourglass-frame.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4491"
+     showgrid="false"
+     inkscape:zoom="1.5037598"
+     inkscape:cx="211.18356"
+     inkscape:cy="199.73024"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40861"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="80,5.0000958"
+       orientation="0,1"
+       id="guide42057"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole Y lower"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.0000958,-5"
+       orientation="1,0"
+       id="guide42059"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole X left"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="70,-5"
+       orientation="1,0"
+       id="guide42061"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole X right"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="80,115.00009"
+       orientation="0,1"
+       id="guide42063"
+       inkscape:locked="false"
+       inkscape:label="Mouting hole Y upper"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="37.5,-5"
+       orientation="1,0"
+       id="guide42085"
+       inkscape:locked="false"
+       inkscape:label="Center X"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="80,2.5000479"
+       orientation="0,1"
+       id="guide42087"
+       inkscape:locked="false"
+       inkscape:label="Connector cutout center horizontal"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <title
+     id="title41469">Hourglass frame</title>
+  <defs
+     id="defs40855" />
+  <metadata
+     id="metadata40858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hourglass frame</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(0.37469834,0,0,0.42105239,3.370293e-6,171.94739)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:0.43513814"
+       d="M 0,668.97656 V 1122.5195 H 0.22851562 113.5 v -18.8984 h 56.69336 v 18.8984 h 113.04297 0.22851 V 668.97656 h -0.22851 c -283.00781438,0 0,0 -283.00781438,0 z m 18.898438,12.28321 c 3.652209,4.9e-4 6.612788,2.96107 6.613281,6.61328 5.84e-4,3.65297 -2.960311,6.61474 -6.613281,6.61523 -3.653734,5.9e-4 -6.615819,-2.9615 -6.615235,-6.61523 4.93e-4,-3.65297 2.962262,-6.61387 6.615235,-6.61328 z m 245.667972,0 c 3.65297,-5.8e-4 6.61474,2.96031 6.61523,6.61328 5.8e-4,3.65373 -2.9615,6.61581 -6.61523,6.61523 -3.65298,-4.9e-4 -6.61386,-2.96225 -6.61329,-6.61523 4.9e-4,-3.65221 2.96108,-6.61279 6.61329,-6.61328 z M 18.898438,704.7832 H 264.56641 v 384.3223 H 18.898438 v 0 z m 0,392.2246 c 3.652217,5e-4 6.612799,2.9611 6.613281,6.6133 5.67e-4,3.653 -2.960322,6.6147 -6.613281,6.6152 -3.653723,6e-4 -6.615802,-2.9615 -6.615235,-6.6152 4.82e-4,-3.653 2.962254,-6.6139 6.615235,-6.6133 z m 245.667972,0 c 3.65298,-6e-4 6.61475,2.9603 6.61523,6.6133 5.7e-4,3.6537 -2.96151,6.6158 -6.61523,6.6152 -3.65296,-5e-4 -6.61385,-2.9622 -6.61329,-6.6152 4.8e-4,-3.6522 2.96107,-6.6128 6.61329,-6.6133 z"
+       transform="matrix(0.70612358,0,0,0.62838578,-8.9946836e-6,-408.37529)"
+       id="path41417"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
