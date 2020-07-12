@@ -13,7 +13,7 @@ Mechanical design for LED Hourglass
     <td><img width="100%" src="./hourglass-panel.svg" alt="hourglass-panel.svg"></td>
   </tr>
   <tr>
-    <td><img width="100%" src="./Stackup%20-%20Alternate.png"></td>
+    <td><img width="100%" src="./Stackup-Alternate.png"></td>
     <td>?????????????????????????</td>
     <td><img width="100%" src="./hourglass-frame.svg"><img width="100%" src="./hourglass-glass.svg"></td>
   </tr>
